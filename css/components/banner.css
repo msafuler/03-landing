@@ -1,0 +1,25 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+.banner-text {
+  width: 900px;
+  margin: auto;
+}
+.btn-primary {
+  display: inline-block;
+  background-color: rgb(46, 167, 82);
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+.btn-primary:hover {
+  text-decoration: none;
+}
+p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}

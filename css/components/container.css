@@ -1,0 +1,23 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(240, 238, 238);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(240, 238, 238);
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.text-center {
+  text-align: center;
+}
+.card img {
+  height: 100px;
+}
